@@ -1,10 +1,10 @@
 Maintainers: Natanael Copa <ncopa@alpinelinux.org> (@ncopa)
 GitRepo: https://github.com/alpinelinux/docker-alpine.git
 
-Tags: 20240923, edge
+Tags: 20250108, edge
 Architectures: arm64v8, arm32v6, arm32v7, ppc64le, riscv64, s390x, i386, amd64
 GitFetch: refs/heads/edge
-GitCommit: 446ba06f99cf635657b51b1a5a0e81a9b8073929
+GitCommit: c1f1de232c970df2285c03050ab3747b8563164f
 arm64v8-Directory: aarch64/
 arm32v6-Directory: armhf/
 arm32v7-Directory: armv7/
@@ -14,10 +14,10 @@ s390x-Directory: s390x/
 i386-Directory: x86/
 amd64-Directory: x86_64/
 
-Tags: 3.21.0, 3.21, 3, latest
+Tags: 3.21.3, 3.21, 3, latest
 Architectures: arm64v8, arm32v6, arm32v7, ppc64le, riscv64, s390x, i386, amd64
 GitFetch: refs/heads/v3.21
-GitCommit: 0f0aa5a1aae7fbaea0ac3b231dc2f99d40466420
+GitCommit: 17fe3d1e2d2cbf54d745139eab749c252e35b883
 arm64v8-Directory: aarch64/
 arm32v6-Directory: armhf/
 arm32v7-Directory: armv7/
@@ -27,10 +27,10 @@ s390x-Directory: s390x/
 i386-Directory: x86/
 amd64-Directory: x86_64/
 
-Tags: 3.20.3, 3.20
+Tags: 3.20.6, 3.20
 Architectures: arm64v8, arm32v6, arm32v7, ppc64le, riscv64, s390x, i386, amd64
 GitFetch: refs/heads/v3.20
-GitCommit: 7d63673353bd39d92ba42f6effcc199aeebd45ee
+GitCommit: a0db1d60e576114995a27356e6dda8145293d6f8
 arm64v8-Directory: aarch64/
 arm32v6-Directory: armhf/
 arm32v7-Directory: armv7/
@@ -40,10 +40,10 @@ s390x-Directory: s390x/
 i386-Directory: x86/
 amd64-Directory: x86_64/
 
-Tags: 3.19.4, 3.19
+Tags: 3.19.7, 3.19
 Architectures: arm64v8, arm32v6, arm32v7, ppc64le, s390x, i386, amd64
 GitFetch: refs/heads/v3.19
-GitCommit: 0822e580809e816cdd92fdfc2677e71d01cba38c
+GitCommit: 7cfdb838c6f47bb3845c25f1674a9c3a44d8bafb
 arm64v8-Directory: aarch64/
 arm32v6-Directory: armhf/
 arm32v7-Directory: armv7/
@@ -52,10 +52,10 @@ s390x-Directory: s390x/
 i386-Directory: x86/
 amd64-Directory: x86_64/
 
-Tags: 3.18.9, 3.18
+Tags: 3.18.12, 3.18
 Architectures: arm64v8, arm32v6, arm32v7, ppc64le, s390x, i386, amd64
 GitFetch: refs/heads/v3.18
-GitCommit: a8be5a35dd72f90cb18dc7d450dca5212f6ad70f
+GitCommit: f92f1c2b3b7025f08b05dc11b70534568a973903
 arm64v8-Directory: aarch64/
 arm32v6-Directory: armhf/
 arm32v7-Directory: armv7/

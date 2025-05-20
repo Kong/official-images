@@ -3,10 +3,10 @@ Maintainers: Milos Gajdos (@milosgajdos),
 GitRepo: https://github.com/distribution/distribution-library-image.git
 GitFetch: refs/heads/master
 
-Tags: 3.0.0-rc.1
+Tags: 3.0.0, 3.0, 3, latest
 Architectures: amd64, arm64v8, arm32v6, arm32v7, ppc64le, s390x, riscv64
-GitCommit: be4eca0a5f3af34a026d1e9294d63f3464c06131
+GitCommit: f83883590f5afda69afafbc5aaa5fde3686f47cf
 
-Tags: 2.8.3, 2.8, 2, latest
+Tags: 2.8.3, 2.8, 2
 Architectures: amd64, arm64v8, arm32v6, arm32v7, ppc64le, s390x
 GitCommit: 39dd72feaab7066334829d6945c54bc51a0aee98

@@ -14,7 +14,7 @@ imageTests[:onbuild]+='
 	override-cmd
 '
 
-testAlias+=(
+test+=(
 	[amazoncorretto]='openjdk'
 	[adoptopenjdk]='openjdk'
 	[eclipse-temurin]='openjdk'
@@ -207,7 +207,6 @@ imageTests+=(
 		postgres-initdb
 	'
 	[python]='
-		python-hy
 		python-imports
 		python-no-pyc
 		python-pip-requests-ssl
